@@ -42,7 +42,7 @@
     "@babel/plugin-transform-runtime": "^7.4.0",
     "@babel/preset-env": "^7.4.2",
     "@babel/preset-flow": "^7.0.0",
-    "@babel/register": "^7.0.0",
+    "@babel/register": "^7.4.0",
     "babel-eslint": "^10.0.0",
     "eslint": "^5.0.0",
     "eslint-plugin-flowtype": "^3.0.0",
